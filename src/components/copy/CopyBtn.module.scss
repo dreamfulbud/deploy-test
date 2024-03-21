@@ -1,6 +1,7 @@
 @import "@/styles/var.scss";
 
 .copy_button {
+  flex-shrink: 0;
   border: 1px solid var(--color-gray-lv2);
   width: 4rem;
   height: 4rem;

@@ -2,6 +2,7 @@
   "menu": [
     { "pc": "행사 소개", "mobile": "소개" },
     { "pc": "찾아오시는 길", "mobile": "위치" },
+    { "pc": "프로그램 안내", "mobile": "프로그램" },
     { "pc": "FAQ" }
   ],
   "headerLink": {
@@ -55,6 +56,170 @@
       "ai": "참여를 희망하시는 분은 <strong>2024년 3월 22일부터 4월 7일까지</strong> 제공된 구글 폼을 통해 신청하실 수 있습니다. 참여는 선착순으로 진행되며, 총 200명까지 모집합니다. 곧 모집예정입니다! 잠시만 기다려 주세요"
     }
   ],
+  "program": {
+    "day1": [
+      {
+        "time": "13:00 ~ 13:50",
+        "space": "가",
+        "times": 1,
+        "title": "Upstage LLM Solar와 Layout analysis",
+        "speaker": "이준엽, 민창현",
+        "affiliated": "Upstage"
+      },
+      {
+        "time": "13:00 ~ 13:50",
+        "space": "나",
+        "times": 1,
+        "title": "일본 AI 기술 및 사업 활용 사례, 스타트업 현황 및 정책 및 우리나라 기업의 진출 전략 등",
+        "speaker": "김이경",
+        "affiliated": "(주)하이그리드"
+      },
+
+      {
+        "time": "14:00 ~ 14:50",
+        "space": "가",
+        "times": 1,
+        "title": "생성형 AI와 역량 트랜스포메이션",
+        "speaker": "고승원",
+        "affiliated": "원더랩스"
+      },
+      {
+        "time": "14:00 ~ 14:50",
+        "space": "나",
+        "times": 1,
+        "title": "생성형 인공지능을 활용한 문제 해결 전략: TRIZ이론을 중심으로",
+        "speaker": "신원식",
+        "affiliated": "식스위즈"
+      },
+      {
+        "space": "가",
+        "time": "15:00 ~ 15:50",
+        "times": 1,
+        "title": "LG CNS 오퍼링 소개 ",
+        "subtitle": "GenAI Discovery Consulting",
+        "speaker": "지선민",
+        "affiliated": "LG CNS"
+      },
+      {
+        "space": "나",
+        "time": "15:00 ~ 15:50",
+        "times": 1,
+        "title": "초보자를 대상으로 한 프롬프트 작성법",
+        "speaker": "이혜림",
+        "affiliated": "개발자 지망생"
+      },
+      {
+        "space": "가",
+        "time": "16:00 ~ 17:50",
+        "times": 2,
+        "title": "build with ai",
+        "subtitle": "'google Gemini api' hands on for beginners",
+        "speaker": "최원범, 김승주",
+        "affiliated": "GDG Jeju"
+      },
+      {
+        "space": "나",
+        "time": "16:00 ~ 16:50",
+        "times": 1,
+        "title": "시니어를 위한 AI 최강 비서 만들기",
+        "speaker": "전정아",
+        "affiliated": "리코멘드 출판사"
+      },
+      {
+        "space": "나",
+        "time": "17:00 ~ 17:50",
+        "times": 1,
+        "title": "업무 자동화에 있어 AI 의 역할",
+        "speaker": "이원빈",
+        "affiliated": "애자일소다"
+      }
+    ],
+    "day2": [
+      {
+        "time": "13:00 ~ 13:50",
+        "space": "가",
+        "times": 1,
+        "title": "뉴스 앵커가 AI 앵커를 직접 개발한 이유",
+        "speaker": "박철민",
+        "affiliated": "(주)에이아이파크"
+      },
+      {
+        "time": "13:00 ~ 13:50",
+        "space": "나",
+        "times": 1,
+        "title": "흉부 X선 상에서 인공지능을 활용한 배액관 위치 평가",
+        "speaker": "김덕주",
+        "affiliated": "제주대학교병원"
+      },
+      {
+        "time": "14:00 ~ 14:50",
+        "space": "가",
+        "times": 1,
+        "title": "AI 시대에 더욱 중요해지는 글쓰기",
+        "subtitle": "AI는 사람이 아는 것만 답할 수 있다.",
+        "speaker": "남정현",
+        "affiliated": "메가존클라우드"
+      },
+      {
+        "space": "나",
+        "time": "14:00 ~ 14:50",
+        "times": 1,
+        "title": "디자이너의 AI 활용 방법",
+        "speaker": "김남희, 김진환",
+        "affiliated": "위니브"
+      },
+      {
+        "time": "15:00 ~ 15:50",
+        "space": "가",
+        "times": 1,
+        "title": "Langchain.js를 이용한 네이버 기사 크롤링 요약 해보기",
+        "speaker": "우성우",
+        "affiliated": null
+      },
+      {
+        "time": "15:00 ~ 15:50",
+        "space": "나",
+        "times": 1,
+        "title": "오픈소스로 구축하는 AI 코딩 어시스턴트",
+        "speaker": "이호정",
+        "affiliated": "카카오"
+      },
+      {
+        "time": "16:00 ~ 16:50",
+        "space": "가",
+        "times": 1,
+        "title": "이미지 생성 인공지능의 활용",
+        "speaker": "이준호",
+        "affiliated": "인그래디언트"
+      },
+
+      {
+        "time": "16:00 ~ 16:50",
+        "space": "나",
+        "times": 1,
+        "title": "일반인을 위한 AI툴 활용기",
+        "speaker": "김진환",
+        "affiliated": "위니브"
+      },
+      {
+        "time": "17:00 ~ 17:50",
+        "space": "가",
+        "times": 1,
+        "title": "생성형 AI 시대, 중요한 건 꺾이지 않는 AI와의 소통",
+        "speaker": "황민호",
+        "affiliated": "카카오"
+      },
+
+      {
+        "time": "17:00 ~ 17:50",
+        "space": "나",
+        "times": 1,
+        "title": "AI가 다 만들어주는 MVP 만들기",
+        "speaker": "김현미, 김지민, 유다함",
+        "affiliated": "개발자 지망생"
+      }
+    ]
+  },
   "faq": [
     {
       "question": "본 컨퍼런스는 유료인가요?",
