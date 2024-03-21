@@ -21,7 +21,7 @@ export default function Home() {
           {v.pc === "찾아오시는 길" && (
             <Location id={`section${i + 2}`} address={data.address} />
           )}
-          {v.pc === "FAQ" && <FAQ id={`section${i + 2}`} data={data.faq} />}
+          {/* {v.pc === "FAQ" && <FAQ id={`section${i + 2}`} data={data.faq} />} */}
         </Fragment>
       ))}
     </main>
