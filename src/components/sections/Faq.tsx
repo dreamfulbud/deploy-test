@@ -1,5 +1,5 @@
 import Section from "../section/Section";
-import Accordion from "../accordion/Accordion";
+// import Accordion from "../accordion/Accordion";
 
 interface SectionProps {
   id?: string;
