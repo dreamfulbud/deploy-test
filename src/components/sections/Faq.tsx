@@ -1,5 +1,5 @@
 import Section from "../section/Section";
-// import Accordion from "../accordion/Accordion";
+import Accordion from "../accordion/Accordion";
 
 interface SectionProps {
   id?: string;
@@ -12,7 +12,7 @@ export const Faq = ({ id, className, data }: SectionProps) => {
     <Section id={id} className={className}>
       <div className="max-wrap">
         <h3 className="section-title">FAQ</h3>
-        {/* <Accordion data={data} /> */}
+        <Accordion data={data} />
       </div>
     </Section>
   );
